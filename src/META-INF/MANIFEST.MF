@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: com.riusoft.deckofcards.dealer
+Main-Class: com.riusoft.deckofcards.dealer.DealerServer
+
